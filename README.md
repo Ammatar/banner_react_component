@@ -1,5 +1,17 @@
 # banner_react_component
 
+<img width="1111" alt="Screenshot 2021-09-06 at 02 45 57" src="https://user-images.githubusercontent.com/42938122/132146428-44c82606-a4a9-427f-93c8-453b32c1de6b.png">
+
+Sample : 
+<Banner
+     title="Get 100% welcome bonus"
+     text="Deposit $ 100 get $ 100 free"
+     time="2021-09-06 23:15:30"
+     options={{
+       bg: 'blue',
+       }}
+      />
+      
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
