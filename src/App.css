@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+.sample_box {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 50%;
+  justify-content: center;
+}
+.sample_box div {
+  display: flex;
+  flex-wrap: wrap;
+}
+.sample_box div div {
+}
